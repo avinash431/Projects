@@ -1,0 +1,1 @@
+/tmp/hadoop-cloudera/mapred/local/1510429638645/lookup.txt
